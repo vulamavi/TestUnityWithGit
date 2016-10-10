@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/AssetsGame/8.Scenes/SelectRoom.unity
+  isLoaded: 1
+  isActive: 1
